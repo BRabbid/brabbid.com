@@ -1,13 +1,13 @@
 # Site settings
-title: Eldino
+title: B-Rabbid
 description: Personal Site
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "https://brabbid.com" # the base hostname & protocol for your site e.g. https://brabbid.com
 
 # User settings
-username: Eldino
+username: B-Rabbid
 user_description: Student and Developer
-user_title: Hacker
+user_title: Web Developer
 email: brabbid123@gmail.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
